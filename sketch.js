@@ -1,7 +1,7 @@
 let mangos = [];  // Array para almacenar los mangos
 
 function setup() {
-  createCanvas(600, 400);  // Tamaño del lienzo
+  createCanvas(1080, 1080);  // Tamaño del lienzo
   noStroke();
   background(255, 182, 193);  // Fondo rosa
   
